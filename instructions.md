@@ -21,3 +21,13 @@ cd /MyProject/lab-01b-terminal-and-markdown-in-github
 | CSE 121        | CSE 142   | INFO 201     |  INFO 343       
 | :------------- | :----------: | -----------: |  :------------- |
 |  Moderately | EXTREMELY   | Decently    |   Challenging | 
+
+
+
+### Here is some random code I wrote for practice.
+```js
+const x = 1;
+for (let i = 0; i > 6; i++) {
+    console.log(i - x);
+}
+```
