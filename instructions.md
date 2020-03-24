@@ -4,7 +4,7 @@ cd /MyProject/lab-01b-terminal-and-markdown-in-github
  ``` 
 
 # I am here to demonstrate my MARKDOWN SKILLZ.
-### <i> I haven't used Markdown in a MINUTE, so bare with me. </i>
+### <i> I haven't used Markdown in a MINUTE, so bear with me. </i>
 
 ## I previously used Markdown in the following courses:
 1. **INFO 200.**
